@@ -1,0 +1,10 @@
+{
+  "Number Of Childs": 100,
+  "Number Of Generations": 50,
+  "Maximize Fitness": true,
+  "Crossover Strategy": "TwoPoint",
+  "Crossover Probability": 0.8,
+  "Mutation Strategy": "NormalDistributionMutation",
+  "Mutation Probability": 0.3,
+  "Selection Strategy": "Tournament"
+}
